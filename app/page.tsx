@@ -64,7 +64,7 @@ export default function Home() {
                 {time}
                 <br></br>
                 <br></br>
-                <Link
+                {/* <Link
                   isBlock
                   color="warning"
                   onClick={() => {
@@ -74,7 +74,7 @@ export default function Home() {
                   }}
                 >
                   click here to locate yourself
-                </Link>
+                </Link> */}
               </p>
             </>
           ) : (
