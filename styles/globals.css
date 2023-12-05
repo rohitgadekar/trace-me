@@ -6,6 +6,10 @@ body::-webkit-scrollbar {
   display: none;
 }
 
+body {
+  user-select: none;
+}
+
 .bg {
   background-image: url("https://res.cloudinary.com/eaglestudiosindia/image/upload/v1699356114/html5/backgrounds/marcel-strauss-p2DiYQFeT2Q-unsplash_c0bgnm.jpg");
   background-size: cover;
