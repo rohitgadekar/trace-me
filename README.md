@@ -30,10 +30,12 @@ npm run dev
 
 ## Tech Stack
 
-**Client:** Nextjs, TailwindCSS
 
-**Server:** Node, Express
 
+| Client    | Server   | 
+| :-------- | :------- | 
+| `Nextjs`  | `Node` |
+| `TailwindCSS`  | `Express` | 
 
 ## Live
 
@@ -43,6 +45,11 @@ npm run dev
 ## Authors
 
 - [@rohitgadekar](https://www.github.com/rohitgadekar)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us [here](rohitgadekar.com)
 
 
 #
