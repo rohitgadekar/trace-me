@@ -1,14 +1,9 @@
 # Trace ME
 
-## Technologies Used
+Take control of your online presence with TraceMe today and start uncovering the IP details that matter most to you. TraceMe: Where IP details meet precision and convenience.
 
-- [Next.js 13](https://nextjs.org/docs/getting-started)
-- [NextUI v2](https://nextui.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [next-themes](https://github.com/pacocoursey/next-themes)
+
+
 
 ## How to Use
 
@@ -27,3 +22,30 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/eaglestudiosindia/image/upload/v1701852489/personal/Screenshot_from_2023-12-06_14-17-45_imrzk5.png)
+
+
+## Tech Stack
+
+**Client:** Nextjs, TailwindCSS
+
+**Server:** Node, Express
+
+
+## Live
+
+- [Check This App](https://traceme.rohitgadekar.site/)
+
+
+## Authors
+
+- [@rohitgadekar](https://www.github.com/rohitgadekar)
+
+
+#
+
+![Logo](https://res.cloudinary.com/eaglestudiosindia/image/upload/v1701850470/personal/banner_lzporw.png)
+
