@@ -49,7 +49,7 @@ npm run dev
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](rohitgadekar.com)
+If you have any feedback, please reach out to me [here](https://www.rohitgadekar.com/support)
 
 
 #
